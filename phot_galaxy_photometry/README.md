@@ -1,0 +1,3 @@
+# Photometry - Galaxies
+
+Here you can find scripts and notebooks about doing photometry on extended objects like galaxies, finding isophotes, etc...
